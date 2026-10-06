@@ -5,6 +5,6 @@
 // This key is meant to be public. The database rules decide what each signed-in person can do.
 // Never paste the "service_role" or "secret" key here.
 window.DG_CONFIG = {
-  url: "PASTE_YOUR_PROJECT_URL_HERE",
-  key: "PASTE_YOUR_ANON_OR_PUBLISHABLE_KEY_HERE"
+  url: "https://vghggnqtrbwjixyaxjcj.supabase.co",
+  key: "sb_publishable_v_HdtUxKt7uw1iqq1ivxmg_kGsoEcDe"
 };
